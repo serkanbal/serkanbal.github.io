@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2014
 client: Personal Project
 category: Android and iOS Development
-description: The most anticipated character of Destiny 2, Xur, Agent of the Nine has its own application to track him down. Where is Xur? for Destiny 2 is a completely FREE, intuitive application with a very simple to use interface! Here are some features - Full inventory of Xur, Location of Xur on a Map, Weapon and Armor Details, Weapon and Armor Ratings & Reviews, Guardian Wishlist, Inventory History, Custom Xur Arrival and Departure Notifications and much more...
+description: The most anticipated character of Destiny 2, Xur, Agent of the Nine has its own application to track him down. Where is Xur? for Destiny 2 is a completely FREE, intuitive application with a very simple to use interface! For full features please check <a href="https://apps.apple.com/us/app/where-is-xur-for-destiny-2/id955286784">Apple Appstore for iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur">Google Playstore for Android</a>.
 
 ---
