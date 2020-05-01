@@ -7,6 +7,23 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: The most anticipated character of Destiny 2, Xur, Agent of the Nine has its own application to track him down. 
 
+Where is Xur? for Destiny 2 is a completely FREE, intuitive application with a very simple to use interface! Just launch the application to see what Xur has for sale along with many other cool features:
+
+- Location on a Map: Find out Xur's exact location on a detailed map.
+
+- Weapon & Armor Details: See all the stats and perks of a weapon or armor in detail.
+
+- Weapon & Armor Ratings and Reviews: Give ratings to exotic items and write reviews on them. Check what the Destiny community thinks about a specific exotic and decide to buy it or not accordingly.
+
+- Guardian Wishlist: The classic feature is back and better than ever! You can now see the votes being cast in real time and see the percentages for all items; not just the item with the most votes.
+
+- Best Exotics: See all the exotics ordered according to their community rating.
+
+- Exotic Armory: Check the details of all the potential loot Xur can bring. Rate & review them to show your love or dislike!
+
+- Archive: Check what Xur has brought in previous weeks in an orderly fashion. Instantly see how many times a particular exotic item is brought by Xur. Archive starts with Forsaken release.
+
+- Custom Notifications: Get notifications for Xur's arrival and departure.
 ---
