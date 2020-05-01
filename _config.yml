@@ -2,8 +2,8 @@
 title: Crocus Games
 email: balserkan88@gmail.com
 url: https://serkanbal.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Tech Enthusiast with a Passion for Android Application Development"
+description: "Developer of Destiny apps: Where is Xur? and The Vault"
+skills: "Developer of Destiny apps: Where is Xur? and The Vault"
 meta_author: Bal Serkan
 
 # Google webmaster tools
@@ -39,17 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-  - title: linkedin
-    url: https://www.linkedin.com/in/serkanbal
+    url: https://twitter.com/Vault_Destiny
+  - title: twitter
+    url: https://twitter.com/XurApp
 
 # Postal address (add as many lines as necessary)
 address:
