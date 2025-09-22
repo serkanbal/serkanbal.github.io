@@ -1,0 +1,39 @@
+---
+layout: default
+modal-id: 3
+date: 2025-22-09
+img: spike_stats.png
+alt: image-alt
+project-date: December 2020
+client: Personal Project
+category: Android & iOS Development
+description: Spike Stats for Valorant is a free app that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
+
+Performance Graphs:
+Spike Stats allows players to see their own profile, match history and statistics. It utilizes and interprets the data in the official Valorant API to create insightful new information such as performance averages and trends. This data is then displayed to players in the form of beautiful graphs that are simple to digest.
+
+Detailed Match Results:
+Spike Stats provides detailed information for each individual match players has completed. This includes map info, names & number of medals accumulated during the match, KDA info as well as its breakdowns (such as kills per weapon type), KAST, round details, shot percentages and many other data points.
+
+Valorant Coach:
+Review your matches with your personal Valorant Coach. Analyze your stats, get personalized tips and elevate your skills effortlessly.
+
+Overview:
+Spike Stats creates a summary of players’ progress from their recent matches. This summary includes an overall win rate per game mode, win rate per map, win rate when the user starts the match as an attacker or defender, average performance metrics such as KDA, KAST and shot percentages.
+
+Agent Stats:
+Spike Stats tracks players’ performance for every agent and creates a list. It includes data such as win rate, KDA info for each agent the player selects. This list can also be sorted by the mentioned metrics and be filtered by agent roles.
+
+Weapon Stats:
+Spike Stats records players’ accuracy and effectiveness for every weapon and prepares a list. This list includes kills, kills per round, damage per round, shot percentages and other info for each weapon the player uses. It can also be sorted by the mentioned stats and filtered by weapon type.
+
+Player Search:
+Spike Stats lets you search for other Valorant players and see their stats effortlessly. All you need is the game name and tag line of the player and you are good to go.
+
+Leaderboards:
+Spike Stats lists the leaderboards for current and previous acts of all regions.
+
+Minimalistic UI:
+Spike Stats is inspired by the minimalistic UI of Valorant and takes design cues from it to recreate the look and feel of the game while adding some characteristic elements of its own.
+
+---
