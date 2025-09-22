@@ -6,7 +6,7 @@ img: vault.png
 alt: image-alt
 project-date: January 2017
 client: Personal Project
-category: Android and iOS Development
-description: The Vault is a free item manager application for the massively popular shared-world shooter games Destiny 2 and Destiny 1. The Vault is created keeping the hardcore and casual players in mind and minimizes the time and effort required to equip an item, to transfer an item to or from the Vault and to transfer an item between your characters. To see full features & download please check <a href="https://apps.apple.com/us/app/vault-manager-for-destiny-2/id1330143510">Apple Appstore for iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager">Google Playstore for Android</a>.
+category: Android & iOS
+description: The Vault is a free and powerful Destiny Item Manager built for Destiny 2, giving Guardians everything they need to manage gear, track progress, and optimize loadouts with ease. From journey tracking and collections management to perk and mod customization, the app helps players unlock their full potential. Features like smart loadouts, advanced item ratings, community reviews, and detailed character insights ensure every Guardian can fine-tune their playstyle for any challenge. With a sleek, intuitive UI and enhanced item details, The Vault makes inventory management effortless while enriching the overall Destiny 2 experience. Download on <a href="https://apps.apple.com/us/app/vault-destiny-item-manager/id1330143510">iOS</a> - <a href="https://play.google.com/store/apps/details?id=com.crocusgames.destinyinventorymanager">Android</a>.
 
 ---
