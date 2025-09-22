@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2017-01-01
 img: vault.png
-alt: image-alt
+alt: Vault - Destiny Item Manager
 project-date: January 2017
 client: Personal Project
 category: Android & iOS
