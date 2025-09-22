@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2025-22-09
-img: spike_stats.png
+date: 2025-01-09
+img: ss.png
 alt: image-alt
 project-date: December 2020
 client: Personal Project
-category: Android & iOS Development
+category: Android and iOS Development
 description: Spike Stats for Valorant is a free app that specializes on analyzing players’ performance statistics and displaying them in an easy to understand fashion.
 
 ---
