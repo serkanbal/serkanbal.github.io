@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2025-01-09
 img: ss.png
-alt: image-alt
+alt: Spike Stats - Valorant Tracker
 project-date: December 2020
 client: Personal Project
 category: Android and iOS
