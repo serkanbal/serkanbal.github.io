@@ -3,10 +3,10 @@ layout: default
 modal-id: 1
 date: 2014-01-01
 img: wix.png
-alt: image-alt
+alt: Xur Alert for Destiny 2
 project-date: January 2014
 client: Personal Project
-category: Android and iOS Development
+category: Android & iOS
 description: Xur Alert (formerly Where is Xur?) is the free, must-have Destiny 2 companion for tracking Xur—showing his full weekly inventory with in-depth stats, perks, community ratings, and expert-backed recommended rolls (including clear god-roll indicators). Browse the Exotic Armory, see best-in-slot exotics via leaderboards, explore past inventories since Forsaken, and follow what the community wants with a live wish list. Set custom notifications for Xur’s arrival/departure and get alerts when your wish-list items appear. Times auto-localize, with Xur typically arriving Fridays at 17:00 GMT and leaving Tuesdays at 17:00 GMT. Download Xur Alert for the smartest, most complete way to track Xur and upgrade your Destiny 2 grind. Download on <a href="https://apps.apple.com/us/app/xur-alert-for-destiny-2/id955286784">iOS</a> - <a href="https://play.google.com/store/apps/details?id=com.crocusgames.whereisxur">Android</a>.
 
 ---
