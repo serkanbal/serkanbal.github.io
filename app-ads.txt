@@ -785,7 +785,7 @@ video.unrulymedia.com, 123476257, RESELLER
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 2276, RESELLER
 Media.net, 8CUO7P3WK, RESELLER
-onetag.com, 5d49f482552c9b6, Reseller
+onetag.com, 5d49f482552c9b6, RESELLER
 ushareit.com, LC7dc692567a127a57, RESELLER
 lacunads.com, LC7dc692567a127a57, RESELLER
 thebrave.io, 1234648, RESELLER, c25b2154543746ac
@@ -818,13 +818,13 @@ onetag.com, 8668c16092f01e8, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 krushmedia.com, AJxF6R585a9M6CaTvK, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
-lijit.com, 481366, Reseller, fafdf38b16bf6b2b
+lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 galaxyx-tech.com, 60056, RESELLER
 smartadserver.com, 4237, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
-App-stock.com, 256917, Reseller
+App-stock.com, 256917, RESELLER
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
 onlinemediasolutions.com, 20498, RESELLER
@@ -983,7 +983,7 @@ smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
 toponad.com,165535463cfb70,RESELLER,1d49fe424a1a456d
 rubiconproject.com, 26846, RESELLER, 0bfd66d529a55807
 triplelift.com, 13043, RESELLER, 6c33edb13117fd86
-thebrave.io, 1234633, Reseller, c25b2154543746ac
+thebrave.io, 1234633, RESELLER, c25b2154543746ac
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 blueseasx.com, 203670, RESELLER, 7998eac5087f6110
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
