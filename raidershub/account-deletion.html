@@ -138,6 +138,9 @@ We will process your request within <strong>7 days</strong>. We may contact you 
 <label>Email</label>
 <input type="email" name="raidershub_email" required>
 
+<label id="label_user_id" for="name"><u>User ID</u></label>
+<input type="text" id="speranza_user_id" name="speranza_user_id">
+
 <label>Message</label>
 <textarea name="raidershub_message" placeholder="Optional message or additional details"></textarea>
 
@@ -153,6 +156,26 @@ If you have questions about your account or this process, contact us at
 </footer>
 
 </main>
+
+<script>
+      // Parse the query string
+      const urlParams = new URLSearchParams(window.location.search);
+      const userId = urlParams.get('user_id');
+
+      // Unescape the value
+      const unescapedUserId = userId ? decodeURIComponent(userId) : '';
+
+      // Populate the form field if user_id is present in the query string
+      if (unescapedUserId) {
+          const formUserId = document.getElementById('speranza_user_id');
+          formUserId.value = unescapedUserId;
+          // Make the field un-editable
+          formUserId.readOnly = true;
+
+          const labelUserId = document.getElementById('label_user_id');
+          labelUserId.innerHTML = "<u>User ID</u> (Auto-filled)"
+      }
+  </script>
 
 </body>
 </html>
