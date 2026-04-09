@@ -1034,3 +1034,4 @@ sharethrough.com,4811,RESELLER,d53b998a7bd4ecd2
 smaato.com,1100059476,RESELLER,07bcf65f187117b4
 smartadserver.com,4811,RESELLER,060d053dcf45cbf3
 toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
+bidease.com, bidease_seller_26, RESELLER
