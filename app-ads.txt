@@ -1152,3 +1152,53 @@ triplelift.com,14826,RESELLER,6c33edb13117fd86
 ushareit.com,LCc6b8b1c8aca38e6f,RESELLER
 verve.com,1007302,RESELLER,0c8f5958fc2d6282
 visiblemeasures.com,1090,RESELLER
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+video.unrulymedia.com, 201313863, RESELLER
+insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
+brightmountainmedia.com, 2686958, RESELLER
+dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
+bluexad.ai, 1996418805747683328, RESELLER
+media.net, 8CU5L226O, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+triplelift.com, 14705-EB, RESELLER
+pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
+bigo.sg, adidz3dyfp, RESELLER
+vidoomy.com, 8953515, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 703273072, RESELLER
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+zetaglobal.net, 525, RESELLER
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
+smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 3964, RESELLER
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
+netmarvel.com, 1011828, RESELLER, ca3509163a633862
+openx.com, 565175463, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+media.net, 8CAXEGFDP, RESELLER
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+thunder-monetize.com, 2158729563, RESELLER
+vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
+media.net, 8CU675N41, RESELLER
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+connekt.ai, 5585919044, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+media.net, 8CUUQ286L, RESELLER
+taurusx.com, 70097, RESELLER
