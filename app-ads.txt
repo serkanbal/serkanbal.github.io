@@ -1,3 +1,4 @@
+ownerdomain=serkanbal.github.io
 google.com, pub-2974783845334399, DIRECT, f08c47fec0942fa0
 vungle.com,68c7d0ead184335d41f15bf4,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
@@ -1202,3 +1203,32 @@ nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
 media.net, 8CUUQ286L, RESELLER
 taurusx.com, 70097, RESELLER
+media.net, 8CUH2L333, RESELLER
+sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
+playdigo.com, 1956, RESELLER
+spinx.biz, 1373698901, RESELLER, 9f2711e9aaa9f992
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-EB, RESELLER
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+improvedigital.com, 2858, RESELLER
+xandr.com, 13058, RESELLER
+themediagrid.com, 7MYRZ3, RESELLER, 9fac4a4a87c2a44f
+smartadserver.com, 3964, RESELLER
+media.net, 8CU7H33B7, RESELLER
+brightcom.com, 20498, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+e-planning.net, f5147a97818958f1, RESELLER, c1ba615865ed87b2
+media.net, 8CU675N41, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+odeeo.io, 199038217, RESELLER, 36cfd73091d5c3fc
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
+betweendigital.com, 45190, RESELLER
+inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER, 83e75a7ae333ca9d
+verve.com, 1007007, RESELLER, 0c8f5958fc2d6270
+pubnative.net, 1007007, RESELLER, d641df8625486a7b
+start.io, 184783812, RESELLER
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+rubiconproject.com, 27987, RESELLER, 0bfd66d529a55807
+bigo.sg, 7id17wm5ly, RESELLER
