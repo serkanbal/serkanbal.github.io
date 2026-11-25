@@ -1232,3 +1232,7 @@ start.io, 184783812, RESELLER
 verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 rubiconproject.com, 27987, RESELLER, 0bfd66d529a55807
 bigo.sg, 7id17wm5ly, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
